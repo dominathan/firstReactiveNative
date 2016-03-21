@@ -1,0 +1,3 @@
+rootProject.name = 'firstReactiveNative'
+
+include ':app'
